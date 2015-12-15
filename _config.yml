@@ -1,0 +1,27 @@
+#markdown: redcarpet
+#highlighter: pygments
+
+
+name: Abdalah El-Barrad
+description: Data Analyst/Research Assistant at the Voinovich School of Public Affairs and Leadership. Working on bachelor's of science degrees in applied mathematics and economics with a minor in computer science. I like writing about economics, math and data science because those are what I am passionate about.
+avatar: https://avatars3.githubusercontent.com/u/7530028?v=3&s=460
+footer-links:
+  email: ae738513@ohio.edu
+  github: abdalah
+  linkedin: abdalahel
+  rss: feed # just type anything here for a working RSS icon
+google_analytics: UA-71409310-1
+url: http://abdalah.github.io
+permalink: /:title/
+version: v1.1.0
+sass:
+  style: :expanded # You might prefer to minify using :compressed
+#gems:
+ # - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  #- jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+    - CNAME
