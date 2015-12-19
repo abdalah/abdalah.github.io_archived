@@ -1,0 +1,2 @@
+This is a site I created using Github pages, Jekyll, Jekyll Now, and Hyde.
+You can learn more about it on my site http://abdalah.github.io/ and of course you can contact me if you want to learn about anything.
