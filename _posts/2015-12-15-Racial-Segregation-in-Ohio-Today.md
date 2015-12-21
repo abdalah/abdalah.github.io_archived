@@ -36,4 +36,4 @@ Columbiana is anther example of a very white county. With a total percent of rac
 
 <!--/html_preserve-->
 
-This map shows a clear divide between Cuyahoga blocks. Cuyahoga is not an exception to this either. You find this pattern in most cities. I have no idea what is causes this, but this is an important topic which people should be talking about. Why are people so segregated and is this a problem that needs to be fixed?
+This map shows a clear divide between Cuyahoga blocks. Cuyahoga is not an exception to this either. You find this pattern in most cities. I have no idea what is causes this, but this is an important topic which people should be talking about. Research has shown that this is going on everywhere and now we need to ask ourselves three important questions. Why are people so segregated? What problems migt this be causing? What solutions do we have to fix this?
